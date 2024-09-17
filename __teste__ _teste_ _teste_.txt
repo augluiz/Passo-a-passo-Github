@@ -1,0 +1,29 @@
+__teste__ _teste_ _**teste**_
+# Título
+## Título
+### Título
+
+* Teste
+* Teste
+   * Teste
+* Teste
+
+Lista:
+- [ ] Fazer algo
+- [ ] Fazer algo
+- [ ] Mais algo
+
+Num|Nome|Nota
+--|--|--
+1|Augusto|10
+2|Teste|3
+
+Para comando usar `crase` `document.getElementById`
+Em python
+```
+x = int(input('Digite valor: '))
+if x % 2 == 0:
+    print('par')
+else:
+    print('ímpar')
+```
